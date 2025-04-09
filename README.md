@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Created React app for Dashboard
+
+Installed packages
+1. Axios
+2. Formik (For handling forms)
+3. React-router-dom
+4. React-toastify
+5. yup (For deep validation)
+
+* Created Sign up, Signin, Home, Profile, Users, Change Password screens
