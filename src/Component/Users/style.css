@@ -1,0 +1,42 @@
+.usersContainer {
+  height: 90%;
+  width: 98%;
+  padding: 8px;
+}
+
+.usersListContainer{
+  height: 80%;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+
+.listContainer {
+  display: flex;
+  gap: 10px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.fields {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  flex-wrap: wrap;
+  gap: 10;
+}
+
+.col {
+  margin: 2px;
+  font-weight: bold;
+}
+
+.row {
+  margin: 2px;
+}
+
+.paginationContainer{
+  position: fixed;
+  bottom: 9%;
+  width: 98%;
+}

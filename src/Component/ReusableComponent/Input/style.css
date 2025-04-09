@@ -1,0 +1,44 @@
+.input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+.errorContainer {
+  color: red;
+}
+
+.error {
+  font-size: smaller;
+  margin: 4px;
+  text-align: center;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.childContainer {
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+.viewContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  align-content: center;
+  gap: 10px;
+}
+
+.key {
+font-weight: bold;
+}
+.value{
+
+}

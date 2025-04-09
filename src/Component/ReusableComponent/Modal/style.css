@@ -1,0 +1,17 @@
+.modalContainer {
+width: 100vw;
+height: 100vh;
+background-color: rgba(0, 0, 0, 0.158);
+position: absolute;
+bottom: 0.1%;
+right: 0.1%;
+align-content: center;
+}
+.modalChildContainer {
+  box-shadow: 1px 1px 3px 3px rgba(177, 177, 177, 0.26);
+  width: fit-content;
+  padding: 15px;
+  z-index: 1000000087;
+  margin: auto;
+  background-color: #fff;
+}

@@ -1,0 +1,13 @@
+.profileContainer {
+  display: flex;
+  justify-content: space-around;
+  height: 90%;
+  width: 80%;
+  padding: 8px;
+}
+
+.childProfileContainer {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}

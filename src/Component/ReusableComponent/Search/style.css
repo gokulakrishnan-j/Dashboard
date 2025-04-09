@@ -1,0 +1,26 @@
+.SearchInput {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  border-right: 0px;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.childContainer {
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+.fieldContainer{
+  width: 50%;
+  display: flex;
+  align-items: center;
+}

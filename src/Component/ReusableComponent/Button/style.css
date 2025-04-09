@@ -1,0 +1,12 @@
+.button {
+  background-color: #fff;
+  border: 1px solid rgba(189, 189, 189, 0.856);
+  padding: 10px;
+  width: 40%;
+  border-radius: 8px;
+  margin: 6px;
+}
+
+.button:active {
+  background-image: linear-gradient(to right, rgb(230, 187, 187), rgb(248, 248, 170));
+}
